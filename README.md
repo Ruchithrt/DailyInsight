@@ -16,7 +16,7 @@ Stay informed and up-to-date with DailyInsight, a React-based news application t
 ## How to Use
 
 1. **Installation:**
-   - Clone the repository: `git clone https://github.com/your-username/dailyinsight.git`
+   - Clone the repository: `git clone https://github.com/Ruchithrt/dailyinsight.git`
    - Navigate to the project directory: `cd dailyinsight`
    - Install dependencies: `npm install`
 
@@ -36,19 +36,4 @@ Stay informed and up-to-date with DailyInsight, a React-based news application t
 - **User Interface:**
   - The user-friendly interface is designed with a focus on simplicity and responsiveness.
 
-## Future Enhancements
 
-- **Search Functionality:**
-  - Implement a search feature to allow users to find specific news topics.
-
-- **Personalized News Feed:**
-  - Introduce user accounts to enable personalized news recommendations based on user preferences.
-
-- **Dark Mode:**
-  - Consider adding a dark mode option for users who prefer a different visual style.
-
-## Feedback
-
-We welcome your feedback! If you encounter any issues, have suggestions for improvements, or want to share your thoughts on DailyInsight, please reach out to us through [email@example.com].
-
-Thank you for choosing DailyInsight as your daily news source! We hope you enjoy staying informed with the latest news.
