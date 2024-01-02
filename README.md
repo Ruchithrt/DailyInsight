@@ -2,6 +2,8 @@
 
 Stay informed and up-to-date with DailyInsight, a React-based news application that delivers the latest news across various categories, including business, sports, general, entertainment, science, and health. Built with user-friendly design principles, this app provides a seamless experience for staying in the know.
 
+<hr>
+
 ## Features
 
 - **Category Selection:**
@@ -12,6 +14,7 @@ Stay informed and up-to-date with DailyInsight, a React-based news application t
 
 - **User-Friendly Interface:**
   - Enjoy a clean and intuitive user interface built with class-based components in React for a smooth and responsive user experience.
+<hr>
 
 ## How to Use
 
@@ -28,12 +31,14 @@ Stay informed and up-to-date with DailyInsight, a React-based news application t
    - Select your preferred news category from the menu.
    - Browse through the latest news articles with ease.
 
+<hr>
+
 ## Technologies Used
 
 - **React:**
   - DailyInsight is built on React, leveraging class-based components for a structured and modular architecture.
 
 - **User Interface:**
-  - The user-friendly interface is designed with a focus on simplicity and responsiveness.
+  - The user-friendly interface is designed with a focus on simplicity and responsiveness using HTML, CSS.
 
 
