@@ -18,7 +18,7 @@ DailyInsight is your go-to news companion, providing real-time updates on a vari
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/DailyInsight.git
+   git clone https://github.com/Ruchithrt/DailyInsight.git
 
 2. **Navigate to the project directory:**
    ```bash
